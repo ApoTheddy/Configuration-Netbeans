@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bindings PUBLIC "-//NetBeans//DTD Editor KeyBindings settings 1.1//EN" "http://www.netbeans.org/dtds/EditorKeyBindings-1_1.dtd">
+<bindings>
+    <bind actionName="comment" key="D-K$D-C"/>
+    <bind actionName="move-selection-else-line-down" key="O-DOWN"/>
+    <bind actionName="move-selection-else-line-up" key="O-UP"/>
+    <bind actionName="start-new-line" key="D-ENTER"/>
+    <bind actionName="uncomment" key="D-K$D-U"/>
+    <bind key="S-SPACE" remove="true"/>
+    <bind key="SO-DOWN" remove="true"/>
+    <bind key="D-KP_UP" remove="true"/>
+    <bind key="SO-KP_DOWN" remove="true"/>
+    <bind key="S-F10" remove="true"/>
+    <bind key="D-K" remove="true"/>
+    <bind key="D-KP_DOWN" remove="true"/>
+    <bind key="S-ENTER" remove="true"/>
+    <bind key="SO-UP" remove="true"/>
+</bindings>
